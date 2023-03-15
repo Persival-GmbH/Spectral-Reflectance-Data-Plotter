@@ -1,5 +1,5 @@
 # Spectral-Reflectance-Data-Plotter
-Jupyter Notebook to plot data from the [TU Graz Spectral Reflectance Database](https://zenodo.org/record/7467552#.ZBIFb9LMJhE).
+Jupyter Notebook to plot data from the [Virtual Vehicle Spectral Reflectance Database](https://zenodo.org/record/7467552#.ZBIFb9LMJhE).
 
 You can select multiple reflectance measurements and display them in one plot in a Jupyter Notebook.
 Here is an example plot:
